@@ -6,9 +6,9 @@ const styles = document.documentElement.style;
 const miStorage = window.localStorage;
 
 const lightTheme = {
-  "--bg-mobile": "url('/src/assets/img/bg-mobile-light.jpg')",
-  "--bg-desktop": "url('/src/assets/img/bg-desktop-light.jpg')",
-  "--theme-icon": "url('/src/assets/img/icon-moon.svg')",
+  "--bg-mobile": "url('../assets/img/bg-mobile-light.jpg')",
+  "--bg-desktop": "url('../assets/img/bg-desktop-light.jpg')",
+  "--theme-icon": "url('../assets/img/icon-moon.svg')",
   "--bg-color": "hsl(236, 33%, 92%)",
   "--list-bg-color": "hsl(0, 0%, 98%)",
   "--light-grayish-blue": "hsl(233, 11%, 84%)",
@@ -17,9 +17,9 @@ const lightTheme = {
 };
 
 const darkTheme = {
-  "--bg-mobile": "url('/src/assets/img/bg-mobile-dark.jpg')",
-  "--bg-desktop": "url('/src/assets/img/bg-desktop-dark.jpg')",
-  "--theme-icon": "url('/src/assets/img/icon-sun.svg')",
+  "--bg-mobile": "url('../assets/img/bg-mobile-dark.jpg')",
+  "--bg-desktop": "url('../assets/img/bg-desktop-dark.jpg')",
+  "--theme-icon": "url('../assets/img/icon-sun.svg')",
   "--bg-color": "hsl(235, 21%, 11%)",
   "--list-bg-color": "hsl(235, 24%, 19%)",
   "--light-grayish-blue": "hsl(234, 39%, 85%);",

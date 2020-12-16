@@ -13,9 +13,9 @@
   --border-color: hsl(233, 11%, 84%);
   --text-completed: hsl(236, 9%, 61%);
   --list-text: hsl(235, 19%, 35%);
-  --bg-mobile: url("/src/assets/img/bg-mobile-light.jpg");
-  --bg-desktop: url("/src/assets/img/bg-desktop-light.jpg");
-  --theme-icon: url("/src/assets/img/icon-moon.svg");
+  --bg-mobile: url("../assets/img/bg-mobile-light.jpg");
+  --bg-desktop: url("../assets/img/bg-desktop-light.jpg");
+  --theme-icon: url("../assets/img/icon-moon.svg");
   --blue-text: rgb(92, 134, 213);
   --text-completed: hsl(234, 11%, 52%);
 }
